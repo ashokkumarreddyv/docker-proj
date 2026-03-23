@@ -1,2 +1,2 @@
-FROM almalinux:23
+FROM nginx
 COPY  . /use/share/nginx/html/
