@@ -1,1 +1,1 @@
-window.API_URL = "http://3.88.100.187:5000";
+window.API_URL = "/api";
